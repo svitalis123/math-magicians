@@ -27,11 +27,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 - React-app
-
-### Instructions
-
 - npx create-react-app@latest .
- 
+
 ## Author
 
 - GitHub: [@githubhandle](https://github.com/svitalis123)
