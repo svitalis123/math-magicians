@@ -63,7 +63,7 @@ const operators = [
   },
   {
     name: 'multiply',
-    value: '×',
+    value: 'x',
   },
   {
     name: 'minus',
