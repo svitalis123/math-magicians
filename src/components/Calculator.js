@@ -16,6 +16,7 @@ const Calculator = () => {
   };
   return (
     <div className="container">
+      <h3>Lets do some math!</h3>
       <div className="wrapper">
         <div className="wrapper_top">
           <p className="output" onChange={handleUpdate}>
