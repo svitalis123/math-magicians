@@ -9,9 +9,9 @@
 
 -  HTML, CSS, JS, REACT, REDUX
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://flourishing-cheesecake-a61942.netlify.app/calculator)
 
 
 ## Getting Started
